@@ -6,7 +6,7 @@ ClientSecret = ???
 
 # This the URL where the site is hosted (no trailing slash)
 # Upon authentication, Google will redirect to BaseUrl/ClassName/redirect
-BaseUrl = http://localhost
+BaseUrl = http://www.gamepsychos.com
 ClassName = test-class
 
 CryptoPassphrase = aBetterPassword
