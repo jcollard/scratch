@@ -1,0 +1,15 @@
+# Set these variables and save as config
+
+# Get these from the Google Developers Console
+ClientID = ???
+ClientSecret = ???
+
+# This the URL where the site is hosted (no trailing slash)
+# Upon authentication, Google will redirect to BaseUrl/ClassName/redirect
+BaseUrl = http://localhost
+ClassName = test-class
+
+CryptoPassphrase = aBetterPassword
+
+AdminEmail = jcollard@cs.umass.edu
+
