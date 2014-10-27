@@ -1,12 +1,12 @@
 # Set these variables and save as config
 
 # Get these from the Google Developers Console
-ClientID = ???
-ClientSecret = ???
+ClientID = 163831924831-73u2fn1dedoholkqp1ci2qn602fjqdlf.apps.googleusercontent.com
+ClientSecret = ccBPve2xp3IPaWoqkQKlKM2G
 
 # This the URL where the site is hosted (no trailing slash)
 # Upon authentication, Google will redirect to BaseUrl/ClassName/redirect
-BaseUrl = http://www.gamepsychos.com
+BaseUrl = http://localhost
 ClassName = test-class
 
 CryptoPassphrase = aBetterPassword
